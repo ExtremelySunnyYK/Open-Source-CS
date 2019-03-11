@@ -1,4 +1,3 @@
-@@ -1,2 +1,11 @@
 # Open-Source-CS
 A list of modules I took to self-learn computing. 
 
