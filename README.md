@@ -10,4 +10,5 @@ An understanding of the role computation can play in solving problems and becomi
 -[Hangman](https://github.com/ExtremelySunnyYK/hangman-python)
 
 -[WordGame](https://github.com/ExtremelySunnyYK/Open-Source-CS/tree/master/Module%201%20Project/WordGame)
+
 Summary: A Scrabble like game where user can choose to play with another user or against a Bot
