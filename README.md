@@ -13,9 +13,10 @@ An understanding of the role computation can play in solving problems and becomi
 -[WordGame](https://github.com/ExtremelySunnyYK/Open-Source-CS/tree/master/Module%201%20Project/WordGame)
 
 Summary: A Scrabble like game where user can choose to play with another user or against a Bot
+
 =======================================================
 
-## Module 2 : Coursera: Data Structures(https://www.coursera.org/learn/data-structures/home/welcome)
+## Module 2 : [Coursera: Data Structures](https://www.coursera.org/learn/data-structures/home/welcome)
 
 
 
@@ -31,4 +32,4 @@ Summary: A Scrabble like game where user can choose to play with another user or
 - Binary Search Trees
 
 ###### Projects done :
-Programming assignments for `Data Structures and Algorithms Specialization <https://www.coursera.org/specializations/data-structures-algorithms>`_.
+Programming assignments for [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
