@@ -11,7 +11,7 @@
 	<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
   </a>
   
-A list of modules I took to self-learn computing. 
+Modules I took to self-learn computing. 
 =======================================================
 
 ## Module 1 : [Intro to Computing with python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
