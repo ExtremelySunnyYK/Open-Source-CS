@@ -1,4 +1,16 @@
 # Open-Source-CS
+<h3 align="center">Open Source Society University</h3>
+<p align="center">
+  Path to a free self-taught education in Computer Science!
+</p>
+<p align="center">
+  <a href="https://github.com/sindresorhus/awesome">
+    <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
+  </a>
+  <a href="https://github.com/ossu/computer-science">
+	<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
+  </a>
+  
 A list of modules I took to self-learn computing. 
 =======================================================
 
@@ -14,7 +26,7 @@ An understanding of the role computation can play in solving problems and becomi
 
 Summary: A Scrabble like game where user can choose to play with another user or against a Bot
 
-=======================================================
+==============================================================================================================
 
 ## Module 2 : [Coursera: Data Structures](https://www.coursera.org/learn/data-structures/home/welcome)
 
@@ -33,3 +45,26 @@ Summary: A Scrabble like game where user can choose to play with another user or
 
 ###### Projects done :
 Programming assignments for [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
+
+==============================================================================================================
+
+
+## Module 3 : [MIT: Intro to Algorithims](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
+
+
+
+###### What I learnt:
+- Breath First Search, Depth First Search
+
+- Graph Theory
+
+- Analyzing Algorithim
+
+- Shortest path Algorithim(dijksta,bellman-ford)
+
+- Dynamic Programming
+
+###### Projects done :
+Programming assignments for [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
+
+
