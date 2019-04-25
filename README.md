@@ -43,6 +43,8 @@ Summary: A Scrabble like game where user can choose to play with another user or
 ###### Projects done :
 Programming assignments for [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
 
+[Chess using Pygame](https://github.com/ExtremelySunnyYK/Chess)
+
 =============================================================
 ## Module 3 : [MIT: Intro to Algorithims](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 
