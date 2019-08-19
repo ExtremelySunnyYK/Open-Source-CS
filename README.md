@@ -62,6 +62,30 @@ Programming assignments for [Data Structures and Algorithms Specialization](http
 - Dynamic Programming
 
 ### Projects done :
-Programming assignments for [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
+Programming assignments for [Data Structures and Algorithms Specialization](https://github.com/ExtremelySunnyYK/MIT-6.006-Introduction-to-Algorithms/tree/master/Module%202%20Project)
+=============================================================
+## Module 4 : [CS 50 Harvard Web Development Course](https://github.com/ExtremelySunnyYK/Harvard-WebDevelopment)
+
+
+
+### What I learnt:
+- Git
+- HTML, CSS
+- Flask
+- SQL
+- ORMs, APIs
+- JavaScript
+- Front Ends using React
+- Django
+- Testing, CI/CD
+- GitHub
+- Scalability
+- Security
+
+### Projects done :
+[Good Reads Search Page](https://github.com/ExtremelySunnyYK/Harvard-WebDevelopment/tree/master/project1-goodreads%20search%20engine)
+[Chatroom with Socket IO](https://github.com/ExtremelySunnyYK/Harvard-WebDevelopment/tree/master/project2-WebChat)
+[Fitness Chat Bot](https://github.com/ExtremelySunnyYK/Firstever-IPPT-Chat-Bot)
+
 
 
