@@ -91,4 +91,17 @@ Programming assignments for [Data Structures and Algorithms Specialization](http
 [Fitness Chat Bot](https://github.com/ExtremelySunnyYK/Firstever-IPPT-Chat-Bot)
 
 
+=============================================================
+## Module 5 : [Stanford Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+
+
+### What I learnt:
+- Logistic Regression
+- Linear Regression
+- MatLab
+
+
+### [Projects done](https://github.com/ExtremelySunnyYK/Machine-Learning)
+
+
 
